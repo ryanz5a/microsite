@@ -289,8 +289,19 @@ h3{
     background-color: #EBF5FF;
     display: flex;
     padding-top: 130px;
-    padding-bottom: 130px;
+    padding-bottom: 100px;
     padding-left: 100px
+}
+
+.icks{
+    margin-top: 120px;
+    margin-right: 20px;
+}
+
+.halics{
+    margin-left: 20px;
+    height: 600px;
+    margin-bottom: 50px;
 }
 
 .dime{
@@ -314,6 +325,7 @@ h3{
 
 .diaz{
     background-color: #EBF5FF;
+    height: 170px;
 }
 
 .falics{
@@ -370,4 +382,59 @@ h3{
 
 .micks{
     margin-top: 15px;
+}
+
+.valics{
+    padding: 35px 35px 35px 35px;
+    width: 300px;
+    height: 200px;
+    background-color: white;
+    border-radius: 5px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+
+.salics{
+    padding: 35px 35px 35px 35px;
+    width: 300px;
+    height: 165px;
+    background-color: white;
+    border-radius: 5px;
+    margin-right: 30px;
+}
+
+.yalics{
+    padding: 35px 35px 35px 35px;
+    width: 280px;
+    height: 200px;
+    background-color: white;
+    border-radius: 5px;
+    margin-right: 30px;
+    margin-top: 30px;
+}
+
+.malics{
+    padding: 35px 35px 35px 35px;
+    width: 300px;
+    height: 200px;
+    background-color: white;
+    border-radius: 5px;
+    margin-right: 30px;
+}
+
+.mat{
+    width: 250px;
+    height: 100px;
+    color: black;
+}
+
+.nat{
+    width: 304px;
+    height: 60px;
+    color: black;
+}
+
+.falics{
+    height: 270px;
+    width: 780px;
 }
