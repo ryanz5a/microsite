@@ -1,0 +1,373 @@
+.header_intro{
+    background-color: #EBF5FF;
+}
+
+.top{
+    display: flex;
+    margin-bottom: 200px;
+    padding-left: 50px;
+    padding-top: 30px;
+   
+}
+
+.baha{
+    display: flex;
+}
+
+.form_intro{
+    text-decoration: none;
+    padding-right: 50px;
+    color: black;
+}
+
+.intro{
+    text-decoration: none;
+    margin-left: 500px;
+    color: #258AFF;
+    width: 129px;
+    height: 26px;
+    text-align: center;
+    padding-top: 9px;
+    border: 2px solid #258AFF;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.logo_black {
+    padding-right: 50px;
+    width: 96px;
+    height: 21px;
+}
+
+.bup{
+    display: flex;
+}
+
+li{
+    padding-right: 50px;
+}
+
+.welf{
+    text-align: center;
+    margin-bottom: 170px;
+}
+
+.knock{
+    font-weight: bold;
+    font-size: 15px;
+    text-transform: uppercase;
+    color: #666666;
+    margin-bottom: 0px;
+}
+
+
+h1{
+    font-size: 70px;
+    margin-top: 26px;
+    width: 600px;
+    height: 170px;
+    margin-left: 376px;
+    margin-bottom: 0px;
+}
+
+.reate{
+    margin-left: 353px;
+    margin-top: 15px;
+    width: 581px;
+    height: 70px;
+    color: #666666;
+    font-size: 21px;
+    margin-bottom: 0px;
+}
+
+p{
+    color: #878B90;
+    font-size: 17px;
+}
+
+.noir{
+    display: flex;
+    margin-left: 450px;
+}
+
+.form_gstart{
+    color: white;
+    background: #FC593B;
+    border: 2px solid #FC593B;
+    margin-left: 5px;
+    width: 175px;
+    height: 49px;
+    margin-top: 18px;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.eyemail{
+    width: 256px;
+    height: 49px;
+    background: #EEF4F5;
+    border: 2px solid #EEF4F5;
+    font-size: 16px;
+    padding-left: 25px;
+}
+
+h3{
+    font-weight: bold;
+    font-size: 21px;
+}
+
+
+.coyx{
+    display: flex;
+    height: 270px;
+    width: 1333px;
+}
+
+.pox{
+    display: flex;
+    margin-left: 80px;
+    padding-right: 50px;
+}
+
+.zoo{
+    display: flex;
+    padding-right: 50px;
+}
+
+.boxy{
+    display: flex;
+    padding-right: 50px;
+}
+
+.iky{
+    width: 34px;
+    height: 34px;
+    margin-right: 25px;
+    margin-bottom: 20px;
+    margin-top: 25px;
+}
+
+.vic{
+    width: 266.984;
+    height: 112px;
+}
+
+.herb{
+    background: #258AFF;
+    display: flex;
+    padding-top: 130px;
+    padding-bottom: 130px;
+    padding-left: 100px;
+}
+
+.midphone{
+    width: 376px;
+    height: 483px;
+}
+
+.noxs{
+    padding-left: 100px;
+}
+
+.lime{
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    margin-bottom: 55px;
+    letter-spacing: 3px;
+}
+
+.slime{
+    color: white;
+    font-weight: 700px;
+    font-size: 48px;
+    height: 100px;
+    width: 523px;
+}
+
+.clime{
+    color: #E4E4E4;
+    font-weight: normal;
+    font-size: 18px;
+    width: 385px;
+    height: 65px;
+    margin-bottom: 6px;
+}
+
+
+.form_start{
+    background-color: white;
+    color: #258AFF;
+    border: 2px solid white;
+    width: 210px;
+    height: 60px;
+    font-weight: bold;
+    font-size: 17px;
+    text-align: center;
+    margin-top: 48px;
+}
+
+.berh{
+    background-color: #EBF5FF;
+    display: flex;
+    padding-top: 130px;
+    padding-bottom: 130px;
+    padding-left: 100px;
+}
+
+.xons{
+    padding-left: 20px;
+    padding-right: 210px;
+}
+
+.mile{
+    color: #258AFF;
+    font-weight: bold;
+    font-size: 15px;
+    margin-bottom: 55px;
+    letter-spacing: 3px;
+}
+
+.sime{
+    color: black;
+    font-weight: 700px;
+    font-size: 48px;
+    height: 100px;
+    width: 523px; 
+}
+
+.smile{
+    color: #666666;
+    font-weight: normal;
+    font-size: 18px;
+    width: 385px;
+    height: 65px;
+    margin-bottom: 6px;
+}
+
+.yocx{
+    display: flex;
+    margin-top: 70px;
+}
+
+.zock {
+    padding-left: 70px;
+}
+
+.zim{
+    background: #258AFF;
+    height: 60px;
+    width: 60px;
+    text-align: center;
+    line-height: 60px;
+    border-radius: 50%;
+    margin-bottom: 32px;
+}
+
+.kiy{
+    width: 27px;
+    height: 27px;
+    margin-top: 19px;
+    padding-right: 4px;
+}
+
+.civ{
+    width: 190px;
+    height: 112px;
+}
+
+.piks{
+    color: #666666;
+}
+
+.dips{
+    width: 356px;
+    height: 696px;
+}
+
+.jicks{
+    background-color: #EBF5FF;
+    display: flex;
+    padding-top: 130px;
+    padding-bottom: 130px;
+    padding-left: 100px
+}
+
+.dime{
+    color: black;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    font-size: 48px;
+    width: 330px;
+    height: 110px;
+}
+
+
+.nile{
+    color: #666666;
+    margin-top: 5px;
+    font-weight: normal;
+    font-size: 18px;
+    width: 305px;
+    height: 82px;
+}
+
+.diaz{
+    background-color: #EBF5FF;
+}
+
+.falics{
+    display: flex;
+}
+
+.adias{
+    display: flex;
+    padding-left: 100px;
+}
+
+.locks{
+    padding-right: 70px;
+}
+
+.mocks{
+    padding-right: 70px;
+}
+
+.nocks{
+    padding-right: 70px;
+}
+
+.jocks{
+    padding-right: 70px;
+}
+
+.alics{
+    display: flex;
+}
+
+.mou{
+    font-weight: bold;
+    font-size: 17px;
+    margin-bottom: 10px;
+    margin-top: 0px;
+}
+
+.cat{
+    font-size: 15px;
+    color: #666666;
+}
+
+.zil{
+    width: 43px;
+    height: 43px;
+    margin-right: 22px;
+    margin-top: 20px;
+}
+
+.hocks{
+    padding-right: 90px;
+}
+
+.micks{
+    margin-top: 15px;
+}
