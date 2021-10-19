@@ -438,3 +438,162 @@ h3{
     height: 270px;
     width: 780px;
 }
+
+.price_area{
+    background: url(../micro1/microProjI/l5-pricing-bg.png);
+}
+
+.maix{
+    margin-top: 0px;
+    font-weight: bold;
+    font-size: 15px;
+    color: #FFFFFF;
+    padding-top: 130px;
+    margin-bottom: 55px;
+    text-align: center;
+}
+
+.dix{
+    color: #FFFFFF;
+    width: 530px;
+    height: 110px;
+    text-align: center;
+    padding-left: 416px;
+    font-size: 48px;
+}
+
+.prize{
+    display: flex;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.price1{
+    background: #2B405A;
+    padding: 50px 50px 50px 50px;
+    width: 247px;
+    height: 390px;
+    border: 2px solid #2B405A;
+    border-radius: 6px;
+}
+
+.saz{
+    margin-bottom: 30px;
+    color: #E5E5E5;
+    font-weight: bold;
+    font-size: 13px;
+}
+
+.lox{
+    display: flex;
+    width: 247px;
+    height: 100px;
+    padding-top: 35px;
+}
+
+.dolar{
+    padding-top: 6px;
+    padding-right: 6px;
+    font-weight: bold;
+    font-size: 30px;
+    color: #FFFFFF;
+}
+
+.dax{
+    font-weight: bold;
+    font-size: 50px;
+    color: #FFFFFF;
+}
+
+.quad{
+    font-size: 17px;
+}
+
+.vax{
+    margin-top: 14px;
+    margin-bottom: 20px;
+    width: 270px;
+    height: 40px;
+    font-size: 14px;
+    color: #E5E5E5;
+}
+
+
+.niphxs{
+    text-decoration: none;
+}
+
+.price2{
+    background: white;
+    margin-left: 30px;
+    width: 310px;
+    height: 390px;
+    border: 2px solid white;
+    border-radius: 6px;
+}
+
+.baz{
+    margin-bottom: 30px;
+    color: #666666;
+    font-weight: bold;
+    font-size: 13px;
+}
+
+
+.draf{
+    background: #4EAB08;
+    margin-left: 150px;
+    border-radius: 13px;
+    color: #fff;
+    padding: 9px 20px;
+    font-weight: bold;
+    font-size: 11px;
+
+}
+
+.bolar{
+    font-weight: bold;
+    font-size: 30px;
+    color: #1F1F1F;
+}
+
+.fax{
+    font-weight: bold;
+    font-size: 50px;
+    color: #1F1F1F;
+}
+
+.gax{
+    width: 270px;
+    height: 40px;
+    font-size: 14px;
+    color: #666666;
+}
+
+.footer{
+    background-color: #EBF5FF;
+    display: flex;
+    padding-top: 130px;
+    padding-bottom: 100px;
+    padding-left: 100px
+}
+
+ul{
+    list-style-type: none;
+}
+
+.liz{
+    margin-bottom: 20px;
+    width: 315px;
+    height: 60px;
+    font-size: 16px;
+    color: #666666;
+}
+
+.hix{
+    display: flex;
+}
+
+.meal{
+    margin-bottom: 0px;
+}
