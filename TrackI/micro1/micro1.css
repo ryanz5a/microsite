@@ -459,6 +459,8 @@ h3{
     height: 110px;
     text-align: center;
     padding-left: 416px;
+    margin-bottom: 80px;
+    margin-top: 40px;
     font-size: 48px;
 }
 
@@ -466,13 +468,15 @@ h3{
     display: flex;
     padding-left: 300px;
     padding-right: 300px;
+    width: 733px;
+    height: 700px;
 }
 
 .price1{
     background: #2B405A;
-    padding: 50px 50px 50px 50px;
-    width: 247px;
-    height: 390px;
+    padding: 30px 15px 45px 45px;
+    width: 311px;
+    height: 452px;
     border: 2px solid #2B405A;
     border-radius: 6px;
 }
@@ -486,13 +490,13 @@ h3{
 
 .lox{
     display: flex;
-    width: 247px;
-    height: 100px;
+    height: 60px;
+    width: 150px;
     padding-top: 35px;
 }
 
 .dolar{
-    padding-top: 6px;
+    padding-top: 9px;
     padding-right: 6px;
     font-weight: bold;
     font-size: 30px;
@@ -500,6 +504,10 @@ h3{
 }
 
 .dax{
+    height: 50px;
+    margin-top: 0px;
+    width: 115px;
+    margin-bottom: 0px;
     font-weight: bold;
     font-size: 50px;
     color: #FFFFFF;
@@ -519,15 +527,56 @@ h3{
 }
 
 
+.fhxs{
+    background:#258AFF;
+    color: white;
+    text-decoration: none;
+    border: 2px solid#258AFF;
+    border-radius: 5px;
+    margin-top: 22px;
+    margin-left: 17px;
+    padding: 9px 9px 12px 12px;
+    font-weight: bold;
+    font-size: 18px;
+   
+}
+
+.nphxs{
+    background: #FC593B;
+    color: white;
+    text-decoration: none;
+    border: 2px solid#FC593B;
+    border-radius: 5px;
+    margin-top: 22px;
+    margin-left: 17px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 35px;
+    padding-right: 35px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+
 .niphxs{
     text-decoration: none;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 40px;
+    color: #1F1F1F;
 }
+
+.phxs{
+    text-decoration: none;
+}
+
 
 .price2{
     background: white;
     margin-left: 30px;
-    width: 310px;
-    height: 390px;
+    padding: 30px 15px 45px 45px;
+    width: 311px;
+    height: 452px;
     border: 2px solid white;
     border-radius: 6px;
 }
@@ -555,9 +604,15 @@ h3{
     font-weight: bold;
     font-size: 30px;
     color: #1F1F1F;
+    padding-top: 9px;
+    padding-right: 6px;
 }
 
 .fax{
+    height: 50px;
+    margin-top: 0px;
+    width: 115px;
+    margin-bottom: 0px;
     font-weight: bold;
     font-size: 50px;
     color: #1F1F1F;
@@ -585,19 +640,22 @@ ul{
 .liz{
     margin-bottom: 20px;
     width: 315px;
-    height: 60px;
+    height: 80px;
     font-size: 16px;
     color: #666666;
+    line-height: 28px;
 }
 
 .hix{
     display: flex;
+    margin-left: 100px;
 }
 
 .meal{
     color: #878B90;
     margin-top: 30px;
     margin-bottom: 25px;
+    margin-left: 18px;
     font-size: 14px;
     
 }
@@ -670,3 +728,4 @@ ul{
     margin-bottom: 50px;
 
 }
+
